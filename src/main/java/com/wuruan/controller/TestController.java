@@ -32,7 +32,7 @@ import com.wuruan.util.EmailUtil;
 public class TestController {
 	
 	@Autowired
-	ToDoItemDao toDoItem; 
+	ToDoItemDao toDoItem;  
 
 	private List<ToDoItem> itemList = new ArrayList<ToDoItem>();
 
